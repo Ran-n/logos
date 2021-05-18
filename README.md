@@ -1,3 +1,3 @@
-# Logos
+# SVGs
 
-Recompilación de moitos logos útiles en formato svg.
+Recompilación de moitos logos e iconas útiles en formato svg.
